@@ -1,2 +1,2 @@
-# HSI-classification-using-RNNs
-The repository contains hyperspectral data and RNN code for its classification
+# HSI-classification-using-GRUs
+The repository contains hyperspectral data and GRU code for its classification.
